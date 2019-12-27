@@ -1,4 +1,3 @@
-
 package com.example;
 
 /**
@@ -12,11 +11,10 @@ public class Greeter {
   public Greeter() {
 
   }
-
 	/**
-	* This is a class.
-	*@param someone, is someone
-	*/
+	 * This read excel file into arraylist with filters
+	 * @param someone: someone 
+	 */
   public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }

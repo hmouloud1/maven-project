@@ -1,4 +1,4 @@
 /**
- * The author
+ * The author.
  */
 package com.example;
